@@ -9,5 +9,9 @@ int main()
     cin >> nome;
     cout << nome << endl;
 
+    int idade;
+    cin >> idade;
+    cout << nome << endl;
+
     return 0;
 }
